@@ -1,0 +1,2 @@
+C:\Users\Kathirkamathamby\source\repos\service-fabric-dotnet-quickstart\Voting\obj\x64\Debug\Voting.sfproj.CoreCompileInputs.cache
+C:\Users\Kathirkamathamby\source\repos\Voting_app\Voting\obj\x64\Debug\Voting.sfproj.CoreCompileInputs.cache
